@@ -17,6 +17,9 @@ nav {
   align-items: center;
   margin: 0 200px;
 }
+.nav-title {
+  font-size: 50px;
+}
 
 nav ul {
   display: flex;
@@ -24,6 +27,16 @@ nav ul {
 nav li {
   list-style-type: none;
   margin-right: 50px;
+}
+
+.btn-primary {
+  isplay: inline-flex;
+  padding: 20px 20px;
+  align-items: flex-start;
+  /* gap: 10px; */
+  border-radius: 8px;
+  background: #e55473;
+  border: 0;
 }
 
 .header {
@@ -225,12 +238,13 @@ nav li {
 }
 
 .get-de {
-  padding-top: 300px;
+  padding-top: 200px;
 }
 
 .inputn {
   justify-content: center;
   padding-left: 350px;
+  padding-top: 50px;
 }
 
 .input-box {
@@ -253,7 +267,7 @@ nav li {
 
 .footer {
   background-color: #111010;
-  margin: 130px 0 0 0;
+  margin: 130px 0 0 0git;
   padding: 30px 30px 30px 150px;
 }
 
@@ -265,4 +279,19 @@ nav li {
   font-weight: 800;
   line-height: normal;
   text-align: center;
+}
+
+.copyright {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 32px;
+}
+
+.shop {
+  color: #fff;
 }
