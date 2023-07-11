@@ -30,13 +30,19 @@ nav li {
 }
 
 .btn-primary {
-  isplay: inline-flex;
+  display: inline-flex;
   padding: 20px 20px;
   align-items: flex-start;
   /* gap: 10px; */
   border-radius: 8px;
   background: #e55473;
   border: 0;
+  color: #fff;
+  font-family: Lato;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .header {
@@ -198,6 +204,12 @@ nav li {
   border: 0;
   margin: 50px 330px;
   justify-content: center;
+  color: #fff;
+  font-family: Lato;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .rect-img {
@@ -263,6 +275,12 @@ nav li {
   border: 0;
 
   justify-content: center;
+  color: #fff;
+  font-family: Lato;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .footer {
