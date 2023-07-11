@@ -197,3 +197,72 @@ nav li {
 .center-img {
   margin: 0 10px;
 }
+
+.get-featured-title {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.get-featured-pera {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.get {
+  background-image: url("Rectangle 9.png");
+  height: 500px;
+  background-size: cover;
+}
+
+.get-de {
+  padding-top: 300px;
+}
+
+.inputn {
+  justify-content: center;
+  padding-left: 350px;
+}
+
+.input-box {
+  /* border-radius: 8px; */
+  background: #fff;
+  padding: 20px 300px;
+}
+
+.get-btn-primary {
+  display: inline-flex;
+  padding: 20px 43px;
+  align-items: flex-start;
+  /* gap: 10px; */
+  border-radius: 8px;
+  background: #e55473;
+  border: 0;
+
+  justify-content: center;
+}
+
+.footer {
+  background-color: #111010;
+  margin: 130px 0 0 0;
+  padding: 30px 30px 30px 150px;
+}
+
+.footer-featured-title {
+  color: #e55473;
+  font-family: Lato;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-align: center;
+}
